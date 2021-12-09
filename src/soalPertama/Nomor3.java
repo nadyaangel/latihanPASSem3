@@ -1,3 +1,5 @@
+package soalPertama;
+
 public class Nomor3 {
     public static void main(String[] args){
         int [] A = {8,3,7,5,9,5,6,7,8,2,3};
@@ -21,3 +23,4 @@ public class Nomor3 {
         }
     }
 }
+
